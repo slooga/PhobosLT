@@ -1,5 +1,6 @@
 #include "debug.h"
 #include "led.h"
+#include "wifi.h"
 #include "webserver.h"
 #include <ElegantOTA.h>
 

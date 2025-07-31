@@ -1,10 +1,12 @@
+#include <esp_wifi.h>
+#include "WifiType.h"
 #include "webserver.h"
 #include <ElegantOTA.h>
+#include "wifi.h"
 
 #include <DNSServer.h>
 #include <ESPmDNS.h>
 #include <LittleFS.h>
-#include <esp_wifi.h>
 
 #include "debug.h"
 
